@@ -13,9 +13,9 @@ The format of the json request can be ascertained from the following examples:
 
 ```json
 {"mode": 0, "pixel": 28, "r": 0, "g": 255, "b": 128}
-'''
+```
 
 
 ```json
 {"mode": 1, "r": 0, "g": 255, "b": 128}
-'''
+```
